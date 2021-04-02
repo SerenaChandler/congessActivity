@@ -1,0 +1,8 @@
+step 1:
+link bootstrap and js and jquery
+step 2:
+use bootstrap to build a skeleton for the html
+step 3:
+2 html pages each with a coresponding js, one for the search page, and one for the page the user is brough to upon searching. this will use location.replace()
+step 4:
+
